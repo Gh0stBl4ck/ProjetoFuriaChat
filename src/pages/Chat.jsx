@@ -60,11 +60,7 @@ export default function Chat() {
   return (
     <div className="h-screen flex flex-col bg-furiaBlack text-furiaWhite">
       <header className="bg-furiaBlack pt-2 pb-1 flex flex-col items-center border-b border-furiaWhite">
-        <img
-          src="/src/img/FuriaP.gif"
-          alt="Logo FURIA"
-          className="h-16 mb-0"
-        />
+      
         <h2 className="text-2xl font-bold">FURIA CHAT 🔥</h2>
         <p className="text-sm text-furiaWhite">{fanName} conectado</p>
 
