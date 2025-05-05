@@ -13,7 +13,7 @@ Chat Interativo para os Fãns da Furia
 <br>
 
 <p align="center">
-  <img alt="Concessionária" src="Projetos.png" width="100%">
+  <img alt="Concessionária" src="furiachat.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
