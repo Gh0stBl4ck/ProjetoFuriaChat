@@ -18,35 +18,34 @@ Chat Interativo para os Fãns da Furia
 
 ## 🚀 Tecnologias
 
-🖥️ Frontend
+🖥️ *FRONTEND*
+
 React.js — Framework JavaScript para criar a interface do chat.
-
 Tailwind CSS — Framework CSS para estilização rápida com classes utilitárias.
-
 uuid (v4) — Geração de ID único por usuário (npm install uuid).
-
 WebSocket — Comunicação em tempo real com o backend.
 
-🧠 Backend
-Node.js — Ambiente para rodar JavaScript no servidor.
 
+🧠 *BACKEND*
+
+Node.js — Ambiente para rodar JavaScript no servidor.
 ws — Biblioteca WebSocket para Node.js (npm install ws).
 
-🎨 Mídia e Recursos Visuais
+
+🎨 *MÍDIA E RECURSOS VISUAIS*
+
 Logo da FURIA (imagem) — Inserida no topo do chat.
-
 Vídeo de fundo (timer de jogo/ambiente competitivo) — Adicionado ao topo com sobreposição.
-
 CSS personalizado — Para animações, posicionamento e responsividade dos elementos visuais.
 
-🌐 Hospedagem & Deploy
+🌐 *HOSPEDAGEM E DEPLOY*
 Vercel — Hospedagem do frontend com deploy automático a partir do GitHub.
-
 Localhost:8080 — Servidor WebSocket rodando localmente no backend.
 
-💻 Versionamento e Controle de Código
-Git — Controle de versão local.
 
+💻 Versionamento e Controle de Código
+
+Git — Controle de versão local.
 GitHub — Repositório remoto para código e deploy.
 
 
