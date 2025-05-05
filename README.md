@@ -20,33 +20,33 @@ Chat Interativo para os Fãns da Furia
 
 🖥️ *FRONTEND*
 
-React.js — Framework JavaScript para criar a interface do chat.
-Tailwind CSS — Framework CSS para estilização rápida com classes utilitárias.
-uuid (v4) — Geração de ID único por usuário (npm install uuid).
-WebSocket — Comunicação em tempo real com o backend.
+<P> React.js — Framework JavaScript para criar a interface do chat. </p>
+<P>Tailwind CSS — Framework CSS para estilização rápida com classes utilitárias. </p>
+<P>uuid (v4) — Geração de ID único por usuário (npm install uuid). </p>
+<P> WebSocket — Comunicação em tempo real com o backend. </p>
 
 
 🧠 *BACKEND*
 
-Node.js — Ambiente para rodar JavaScript no servidor.
-ws — Biblioteca WebSocket para Node.js (npm install ws).
+<P>Node.js — Ambiente para rodar JavaScript no servidor. </p>
+<P>ws — Biblioteca WebSocket para Node.js (npm install ws). </p>
 
 
 🎨 *MÍDIA E RECURSOS VISUAIS*
 
-Logo da FURIA (imagem) — Inserida no topo do chat.
-Vídeo de fundo (timer de jogo/ambiente competitivo) — Adicionado ao topo com sobreposição.
-CSS personalizado — Para animações, posicionamento e responsividade dos elementos visuais.
+<P>Logo da FURIA (imagem) — Inserida no topo do chat. </p>
+<P>Vídeo de fundo (timer de jogo/ambiente competitivo) — Adicionado ao topo com sobreposição. </p>
+<P>CSS personalizado — Para animações, posicionamento e responsividade dos elementos visuais. </p>
 
 🌐 *HOSPEDAGEM E DEPLOY*
-Vercel — Hospedagem do frontend com deploy automático a partir do GitHub.
-Localhost:8080 — Servidor WebSocket rodando localmente no backend.
+<P>Vercel — Hospedagem do frontend com deploy automático a partir do GitHub. </p>
+<P>Localhost:8080 — Servidor WebSocket rodando localmente no backend. </p>
 
 
 💻 Versionamento e Controle de Código
 
-Git — Controle de versão local.
-GitHub — Repositório remoto para código e deploy.
+<P>Git — Controle de versão local. </p>
+<P>GitHub — Repositório remoto para código e deploy. </p>
 
 
 
